@@ -1,2 +1,2 @@
-#!/bin/bas
-chmod ug+x,o+r hell0
+#!/bin/bash
+chmod ug+x,o+r  hello
